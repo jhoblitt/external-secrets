@@ -60,7 +60,7 @@ require (
 	github.com/onsi/ginkgo v1.16.5
 	github.com/onsi/gomega v1.16.0
 	github.com/oracle/oci-go-sdk/v45 v45.2.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tidwall/gjson v1.12.1
